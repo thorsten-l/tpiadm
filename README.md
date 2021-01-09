@@ -1,6 +1,9 @@
 # tpiadm
 A simple TuringPi V1 slot administration tool.
 
+## Documentation
+- [Turing Pi V1 - Cluster Management Bus (i2c)](https://docs.turingpi.com/cluster-management-bus-i2c)
+
 ## Usage
 ```text
 Usage: tpiadm [OPTION...]
