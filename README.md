@@ -1,6 +1,12 @@
 # tpiadm
 A simple TuringPi V1 slot administration tool.
 
+## Binary
+
+Find a precompiled static binary at the [`bin/`](https://github.com/thorsten-l/tpiadm/tree/main/bin) directoy or at the [Releases](https://github.com/thorsten-l/tpiadm/releases) page.
+
+- Compiled with Rasberry PI OS (buster, 32Bit)
+
 ## Documentation
 - [Turing Pi V1 - Cluster Management Bus (i2c)](https://docs.turingpi.com/cluster-management-bus-i2c)
 
