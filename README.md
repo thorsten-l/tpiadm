@@ -1,6 +1,9 @@
 # tpiadm
 A simple TuringPi V1 slot administration tool.
 
+## See also
+- [ESP8266 Turing Pi WiFi Controller](https://github.com/thorsten-l/ESP8266-TuringPi-WiFi-Controller) - a WiFi Controller for the Turing Pi V1 cluster board connected via the onboard I2C bus.
+
 ## Binary
 
 Find a precompiled static binary at the [`bin/`](https://github.com/thorsten-l/tpiadm/tree/main/bin) directoy or at the [Releases](https://github.com/thorsten-l/tpiadm/releases) page.
